@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "chart-of-accounts": "^1.1.2",
     "vat-rate-calculator": "^1.0.1"
   }
 }
